@@ -1,3 +1,3 @@
 # hello-world
-Yuboo's first repository
+Yuboo's first repository.
 Feel good.
